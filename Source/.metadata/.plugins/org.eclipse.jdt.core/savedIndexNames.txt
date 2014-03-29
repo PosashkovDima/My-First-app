@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+F:\Mercury\SourceTree\Splash screen\.metadata\.plugins\org.eclipse.jdt.core
+1284074322.index
+3151586295.index
+453839759.index
+2836988999.index
